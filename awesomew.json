@@ -1,0 +1,46 @@
+[
+    {
+        "url": "wwww.google.com",
+        "CountDomain": "3"
+    },
+    {
+        "url": "hhtp://citationlabs.com/",
+        "CountDomain": "4"
+    },
+    {
+        "url": "https://zipsprout.us",
+        "CountDomain": "3"
+    },
+    {
+        "url": "http://www.example.com",
+        "CountDomain": "1"
+    },
+    {
+        "url": "https://audiential.co.uk/",
+        "CountDomain": "3"
+    },
+    {
+        "url": "https://www.a.com",
+        "CountDomain": "3"
+    },
+    {
+        "url": "https://www.b.com",
+        "CountDomain": "1"
+    },
+    {
+        "url": "https://www.welcome.com",
+        "CountDomain": "1"
+    },
+    {
+        "url": "https://www.x.com",
+        "CountDomain": "1"
+    },
+    {
+        "url": "https://www.x.com",
+        "CountDomain": "1"
+    },
+    {
+        "url": "https://zipsprout.com∕other/",
+        "CountDomain": "1"
+    }
+]
